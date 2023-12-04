@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# CS 210-Programming Languages
 
 Summary:
 The code in this repository was used to develop an investment calculator. It provides the user the ability to calculate the annual compound interest of their account balance. Which the results will be conveyed with and without a monthly deposit.
